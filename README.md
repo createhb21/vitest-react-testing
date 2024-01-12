@@ -15,3 +15,8 @@ Code to accompany [React Testing Library and Jest](https://www.udemy.com/course/
 - [About Queries | Testing Library](https://testing-library.com/docs/queries/about/)
 - [Cheatsheet | Testing Library](https://testing-library.com/docs/react-testing-library/cheatsheet/)
 - [About Queries and Priority | Testing Library](https://testing-library.com/docs/queries/about/#priority)
+
+- [ByText | Testing Library](https://testing-library.com/docs/queries/bytext/)
+- [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
+- [Setup custom-render | Testing Library](https://testing-library.com/docs/react-testing-library/setup/#custom-render)
+- [Setup skipping-auto-cleanup | Testing Library](https://testing-library.com/docs/react-testing-library/setup/#skipping-auto-cleanup)
